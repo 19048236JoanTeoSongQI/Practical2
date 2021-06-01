@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Practical 2</string>
+    <string name="hobby">Hobby:</string>
+    <string name="swimming">Swimming</string>
+
+    <string name="place1">Khatib Clubhouse</string>
+    <string name="place2">Safra Yishun</string>
+    <string name="place3">SengKang Swimming Complex</string>
+    <string name="place4">Tampines Swimming Complex</string>
+    <string name="place5">Jurong East Swimming Complex</string>
+    <string name="place6">Wild Wild Wet</string>
+
+    <string name="description1"> New 21,000-square-metre, five-storeyed Khatib Clubhouse has opened its doors to welcome families to revel in its many eco-friendly innovations, and first-of-its-kind facilities and amenities.
+        Its also the first clubhouse to introduce an eco filtration system for its swimming pool where the water is sanitised without the need for chemicals like chlorine – talk about being sustainable.</string>
+    <string name="description2">The pool space is surrounded by lush greens, furnished with massive umbrellas, deck chairs and structures to mirror one.Squeeze into your swimwear and make a splash at the gargantuan rock with built-in
+        slides by the outdoor rock-climbing wall. With the inter-connected water linkways,you can waddle your way to the lap pool or the next section without having to get yourself out of the water and onto the scorching hot floor.</string>
+    <string name="description3"> if you have got active kids who love to slide. The most eye-catching feature in this swimming complex is the eight colourful giant slides – there are both open-top and tube slides – that sends the young (or the young-at-heart) splashing straight into the pool.
+        Theres also a relaxing jacuzzi and kiddy pool – fitted with a small slide for the toddlers – to dip in. But if you are looking for a challenge, check out the two Olympic-sized pools, with group swimming lessons conducted regularly throughout the week.</string>
+    <string name="description4">Located on the sixth level of Our Tampines Hub, this breezy rooftop facility gives ritzy infinity pools a run for their money. There are a total of six pools: a training pool, a ten-lane competition pool, a multi-purpose pool, a Jacuzzi pool for chilling, an interactive pool, and a wading pool.
+        The last two are meant for the little ones – the garden-themed kiddy pool even has flower pot misting spouts and a kid-sized waterfall to get really drenched in. </string>
+    <string name="description5">First public pool in Singapore to offer a lazy river, wave pool, and fun slides to the masses. Theres a tower of three spiraling water slides are perpetually packed, along with the wave pool and lazy river that gently lulls you along the perimeter of the facility.
+        If you are there to do some real swimming, theres also a competition pool somewhere in the complex.</string>
+    <string name="description6">From high-speed flume rides to four-storey slides and wave pools, there’s plenty to do at this water paradise. More than just swimming pools, this Pasir Ris must-visit is decked with a plethora of slides, ladders, water cannons and fountains, perfect for cooling off if doing laps arent your thing.
+        Get your heart pumping with the exhilarating trip down the Ular-Lah raft slide, with its high, banked corners and 360-degree spins. </string>
+
+    <string name="desChinese1">全新的21,000平方米，五层高的Khatib(卡迪)俱乐部会所已开始营业，欢迎家庭成员沉迷于其众多环保创新以及首创的设施。这也是第一家为其游泳池引入生态过滤系统的俱乐部，该游泳池无需使用氯等化学物质即可对水进行消毒-谈论可持续性。</string>
+    <string name="desChinese2">泳池空间周围环绕着郁郁葱葱的绿色植物，配备了巨大的遮阳伞、躺椅和与之相呼应的结构。穿上您的泳衣，在室外攀岩墙旁带有内置滑梯的巨大岩石上尽情嬉戏。借助相互连接的水上通道，您可以蹒跚地前往小型游泳池或下一个区域，而不必让自己离开水面，踏上灼热的地板。</string>
+    <string name="desChinese3">如果你有喜欢滑梯的活跃孩子。在这个游泳馆中，最引人注目的功能是八个彩色巨型滑梯-既有开顶滑梯又有管滑梯-可以将年轻的（或年轻人）直接溅入游泳池。还有一个放松的按摩浴缸和儿童游泳池——配有一个供幼儿使用的小滑梯——可以在里面畅游。但如果你想挑战一下，可以看看两个奥林匹克规模的游泳池，每周都有定期进行团体游泳课程。</string>
+    <string name="desChinese4">这座通风良好的屋顶设施位于Tampines Hub 的第六层，让豪华的无边泳池物超所值。一共有六个游泳池：训练池、十车道比赛池、多功能池、按摩池放松、互动池和戏水池。最后两个是为小孩子准备的——以花园为主题的儿童游泳池甚至有花盆喷雾喷口和一个儿童大小的瀑布，可以让他们真正地湿透。</string>
+    <string name="desChinese5">新加坡第一个提供漂流河，波浪池和有趣滑梯的公共游泳池。那里永久地堆满了三个螺旋状的水滑梯塔，还有波浪池和漂流河，这些溪流轻轻地使您沿着设施的周围平静下来。如果您在那里进行一些真实的游泳，那么在综合大楼的某个地方还有一个比赛池。</string>
+    <string name="desChinese6">从高速滑水道到四层高的滑梯和波浪池，这个水上乐园有很多事情要做。不仅是游泳池，这个巴西立必游之地还配有大量滑梯，梯子，水炮和喷泉，是您凉爽一圈的好去处。沿着 Ular-Lah 筏滑道进行令人振奋的旅程，这里有高高的倾斜角和 360 度旋转，让您心跳加速。</string>
+
+    <string name="url1">https://www.hometeamns.sg/khatib/adventurehq/</string>
+    <string name="url2">https://www.safra.sg/clubs/yishun</string>
+    <string name="url3">https://sengkangswimming.com/</string>
+    <string name="url4">https://tampinesswimming.com/</string>
+    <string name="url5">https://happyfish.sg/jurong-east-swimming-complex.htm</string>
+    <string name="url6">https://www.wildwildwet.com/</string>
+
+</resources>
