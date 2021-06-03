@@ -6,11 +6,12 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".LocationDetails"
-    android:layout_margin="5dp">
+    android:background="@drawable/background">
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_margin="5dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -21,48 +22,114 @@
                 android:id="@+id/textViewDetails1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:fontFamily="serif"
                 android:text="TextView"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewUrl1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textColor="@android:color/holo_blue_dark"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewDetails2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:fontFamily="serif"
                 android:text="TextView"
-                android:textSize="20sp"
-                android:layout_marginTop="30dp"/>
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewUrl2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewDetails3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:fontFamily="serif"
                 android:text="TextView"
-                android:textSize="20sp"
-                android:layout_marginTop="30dp"/>
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewUrl3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewDetails4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:fontFamily="serif"
                 android:text="TextView"
-                android:textSize="20sp"
-                android:layout_marginTop="30dp"/>
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewUrl4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewDetails5"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:fontFamily="serif"
                 android:text="TextView"
-                android:textSize="20sp"
-                android:layout_marginTop="30dp"/>
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewUrl5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewDetails6"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:fontFamily="serif"
                 android:text="TextView"
-                android:textSize="20sp"
-                android:layout_marginTop="30dp"/>
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewUrl6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="20sp" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

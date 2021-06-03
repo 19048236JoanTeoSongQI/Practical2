@@ -5,24 +5,49 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@drawable/background2">
 
     <TextView
         android:id="@+id/textViewTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:fontFamily="sans-serif-smallcaps"
         android:text="@string/hobby"
         android:textColor="@color/black"
         android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/swimming"
+        android:layout_margin="5dp"/>
+
+    <TextView
+        android:id="@+id/textViewClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Click below to get more details:"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/textViewSwim"
         android:layout_width="match_parent"
         android:layout_height="0dp"
+        android:layout_margin="5dp"
         android:layout_weight="1"
+        android:fontFamily="cursive"
         android:gravity="center"
         android:text="@string/swimming"
         android:textColor="@color/black"
-        android:textSize="36sp" />
+        android:textSize="50sp"
+        android:textStyle="bold" />
 
 </LinearLayout>
